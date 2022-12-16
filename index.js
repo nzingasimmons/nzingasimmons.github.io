@@ -388,7 +388,7 @@ function nextWelcomeWindow ()
     }
     else if (counterWindow == 1)
     {
-        document.querySelector("#start").innerHTML = "Finsh" ;
+        document.querySelector("#start").innerHTML = "Finish" ;
     }
     document.querySelector(`[welcomewindow='${counterWindow}']`).style.display = "none"
     document.querySelector(`[welcomewindow='${counterWindow + 1}']`).style.display = "flex"
