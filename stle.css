@@ -458,12 +458,11 @@ z-index: 10;
     height: 100%;
 }
 .fileManagercontent .projectContaner .project{
-    background-image: url(assits/V9.jpg);
     background-size: cover;
     width: 20%;
     height: 20vh;
     
-    margin: 2% 1%;
+    margin: 2% 1.5%;
     border-radius: 6%;
     
         box-shadow: 8px 8px 21px #cecece80,
